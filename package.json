@@ -1,0 +1,20 @@
+{
+  "name": "customlodash",
+  "version": "1.0.0",
+  "description": "lodash testing",
+  "main": "script.js",
+  "dependencies": {
+    "jest": "^27.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "jest"
+  ],
+  "author": "",
+  "license": "ISC"
+}
